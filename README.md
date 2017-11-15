@@ -7,11 +7,6 @@ This will give the user an out-of-the-box functional React boilerplate which run
 ```
 git clone https://github.com/gitrkaplan/react-boilerplate.git
 npm install
-```
-In your terminal:
-```
-cd (root of repo)
-npm install
 npm run watch
 ```
 
