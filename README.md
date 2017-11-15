@@ -1,7 +1,7 @@
 # React Boilerplate
 
 ## Motivation
-This will give the user an out-of-the-box functional react boilerplate which runs express on the backend.
+This will give the user an out-of-the-box functional React boilerplate which runs express on the backend.
 
 ## Usage
 ```
